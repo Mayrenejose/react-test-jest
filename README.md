@@ -17,9 +17,3 @@
 - ✅ TDD en formularios con validaciones y llamada a API.
 - ✅ TDD en un listado de elementos con filtros y paginación.
 - ✅ TDD en una app que maneje autenticación y autorización.
-
-## Accede al curso
-
-En este repositorio tienes acceso al código fuente del curso pero **¿Cuál fue el proceso para crear primero los tests y luego la implementación?** esta es la esencia de TDD.
-
-[DA CLICK AQUI PARA ACCEDER :D](https://www.udemy.com/course/tdd-react-js/?referralCode=F40803D2C4D2934AB038)
